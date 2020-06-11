@@ -1,0 +1,674 @@
+fileFormatVersion: 2
+guid: efc399c87bbdbc446877f858f72c9c16
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Jr.Pepe_0
+    21300002: Jr.Pepe_1
+    21300004: Jr.Pepe_2
+    21300006: Jr.Pepe_3
+    21300008: Jr.Pepe_4
+    21300010: Jr.Pepe_5
+    21300012: Jr.Pepe_6
+    21300014: Jr.Pepe_28
+    21300016: Jr.Pepe_8
+    21300018: Jr.Pepe_9
+    21300020: Jr.Pepe_10
+    21300022: Jr.Pepe_11
+    21300024: Jr.Pepe_12
+    21300026: Jr.Pepe_13
+    21300028: Jr.Pepe_14
+    21300030: Jr.Pepe_15
+    21300032: Jr.Pepe_16
+    21300034: Jr.Pepe_17
+    21300036: Jr.Pepe_18
+    21300038: Jr.Pepe_19
+    21300040: Jr.Pepe_20
+    21300042: Jr.Pepe_21
+    21300044: Jr.Pepe_22
+    21300046: Jr.Pepe_23
+    21300048: Jr.Pepe_24
+    21300050: Jr.Pepe_25
+    21300052: Jr.Pepe_26
+    21300054: Jr.Pepe_27
+    21300056: Jr.Pepe_28
+    21300058: Jr.Pepe_29
+    21300060: Jr.Pepe_30
+    21300062: Jr.Pepe_31
+    21300064: Jr.Pepe_32
+    21300066: Jr.Pepe_33
+    21300068: Jr.Pepe_34
+    21300070: Jr.Pepe_35
+    21300072: Jr.Pepe_36
+    21300074: Jr.Pepe_37
+    21300076: Jr.Pepe_38
+    21300078: Jr.Pepe_39
+    21300080: Jr.Pepe_40
+    21300082: Jr.Pepe_41
+    21300084: Jr.Pepe_42
+    21300086: Jr.Pepe_43
+    21300088: Jr.Pepe_44
+    21300090: Jr.Pepe_45
+    21300092: Jr.Pepe_46
+    21300094: Jr.Pepe_47
+    21300096: Jr.Pepe_48
+    21300098: Jr.Pepe_49
+    21300100: Jr.Pepe_50
+    21300102: Jr.Pepe_51
+    21300104: Jr.Pepe_52
+    21300106: Jr.Pepe_53
+    21300108: Jr.Pepe_54
+    21300110: Jr.Pepe_55
+    21300112: Jr.Pepe_56
+    21300114: Jr.Pepe_57
+    21300116: Jr.Pepe_58
+    21300118: Jr.Pepe_59
+    21300120: Jr.Pepe_60
+    21300122: Jr.Pepe_61
+    21300124: Jr.Pepe_62
+    21300126: Jr.Pepe_63
+    21300128: Jr.Pepe_64
+    21300130: Jr.Pepe_65
+    21300132: Jr.Pepe_66
+    21300134: Jr.Pepe_67
+    21300136: Jr.Pepe_68
+    21300138: Jr.Pepe_69
+    21300140: Jr.Pepe_70
+    21300142: Jr.Pepe_71
+    21300144: Jr.Pepe_72
+    21300146: Jr.Pepe_73
+    21300148: Jr.Pepe_74
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jr.Pepe_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 242
+        width: 33
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bf9bc0516cec54ea5abad6f14c1b6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jr.Pepe_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 242
+        width: 33
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8da0dec29849fe4b8f6272a8d4c4034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jr.Pepe_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 242
+        width: 33
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1793df23515a01419d4421fb31b0039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jr.Pepe_3
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 243
+        width: 33
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5fa582f89dddb4da1bd0164bbd0e5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jr.Pepe_4
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 243
+        width: 33
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10f71d24e0e6f24ebbac1ade7302b5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jr.Pepe_5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 243
+        width: 33
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728ba207449935f4a862ed2554c96dde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jr.Pepe_6
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 243
+        width: 33
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0ebf0bf0648944884ebca0ea6a36f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jr.Pepe_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 186
+        width: 33
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7766cc8b86d234bbdf47d1e5dbe887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jr.Pepe_12
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 185
+        width: 33
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f5bae9982070d4489bd183430f1398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jr.Pepe_13
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 185
+        width: 33
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6443f2fa90c50a4490fe0480252d5ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jr.Pepe_14
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 185
+        width: 33
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664cc0bd7b8532743bf36028781661ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jr.Pepe_15
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 185
+        width: 33
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e5c592bad7d964e9479470c02f96a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jr.Pepe_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 127
+        width: 35
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2bf06ae52e48748b7b98c86a0326fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jr.Pepe_17
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 128
+        width: 35
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbaaf81aed00dca4ab21b6e64c5b03b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jr.Pepe_18
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 128
+        width: 35
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb79e289345c9154f821f40589263167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jr.Pepe_19
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 127
+        width: 33
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29af5595e23b21b4ea4a8bcf3baa1204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jr.Pepe_20
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 127
+        width: 34
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871cecf8e939c0744b167685ec5932b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jr.Pepe_21
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 126
+        width: 33
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82721eb6e14b1f647b82e2fa5a6d7fec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jr.Pepe_22
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 69
+        width: 36
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09db0aaee93914c48911941a650a49ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jr.Pepe_23
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 70
+        width: 37
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89513acd3c51a2f4c8c45f6292ea4e22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jr.Pepe_24
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 70
+        width: 39
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4ae37b7aaefb247be31e099466d62b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jr.Pepe_25
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 70
+        width: 49
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9126f8c8a38433248b44a0bec2f12c6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jr.Pepe_26
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 70
+        width: 48
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4facccbdddea84f9a3f3193616ea38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jr.Pepe_27
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 69
+        width: 36
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c374516e199c44692b97ef3b085569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jr.Pepe_28
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 69
+        width: 36
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b466c0cf3dd3bd44b602f618e690f5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 578f60e6d6c144f4b9433ed0de577831
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

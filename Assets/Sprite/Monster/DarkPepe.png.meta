@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: 8a29e71bec3185c4eab881398d2d6d57
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DarkPepe_0
+    21300002: DarkPepe_1
+    21300004: DarkPepe_2
+    21300006: DarkPepe_3
+    21300008: DarkPepe_4
+    21300010: DarkPepe_5
+    21300012: DarkPepe_6
+    21300014: DarkPepe_7
+    21300016: DarkPepe_8
+    21300018: DarkPepe_9
+    21300020: DarkPepe_10
+    21300022: DarkPepe_11
+    21300024: DarkPepe_12
+    21300026: DarkPepe_13
+    21300028: DarkPepe_14
+    21300030: DarkPepe_15
+    21300032: DarkPepe_16
+    21300034: DarkPepe_17
+    21300036: DarkPepe_18
+    21300038: DarkPepe_19
+    21300040: DarkPepe_20
+    21300042: DarkPepe_21
+    21300044: DarkPepe_22
+    21300046: DarkPepe_23
+    21300048: DarkPepe_24
+    21300050: DarkPepe_25
+    21300052: DarkPepe_26
+    21300054: DarkPepe_27
+    21300056: DarkPepe_28
+    21300058: DarkPepe_29
+    21300060: DarkPepe_30
+    21300062: DarkPepe_31
+    21300064: DarkPepe_32
+    21300066: DarkPepe_33
+    21300068: DarkPepe_34
+    21300070: DarkPepe_35
+    21300072: DarkPepe_36
+    21300074: DarkPepe_37
+    21300076: DarkPepe_38
+    21300078: DarkPepe_39
+    21300080: DarkPepe_40
+    21300082: DarkPepe_41
+    21300084: DarkPepe_42
+    21300086: DarkPepe_43
+    21300088: DarkPepe_44
+    21300090: DarkPepe_45
+    21300092: DarkPepe_46
+    21300094: DarkPepe_47
+    21300096: DarkPepe_48
+    21300098: DarkPepe_49
+    21300100: DarkPepe_50
+    21300102: DarkPepe_51
+    21300104: DarkPepe_52
+    21300106: DarkPepe_53
+    21300108: DarkPepe_54
+    21300110: DarkPepe_55
+    21300112: DarkPepe_56
+    21300114: DarkPepe_57
+    21300116: DarkPepe_58
+    21300118: DarkPepe_59
+    21300120: DarkPepe_60
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DarkPepe_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 249
+        width: 63
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c11c4ea99b7b74db10108b14955333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkPepe_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 249
+        width: 63
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa85b9c3bb68091498e9288bffeda7e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkPepe_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 249
+        width: 63
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc840cf4d08debf46b9270892bfa1cb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkPepe_3
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 249
+        width: 63
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e448eaf4366cd849a251401754daf2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkPepe_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 249
+        width: 63
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c591f34dd1a1084409280c082c49d0f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkPepe_5
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 249
+        width: 64
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af33e8d0b38dd1d458e3aa7d8622f63f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkPepe_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 173
+        width: 70
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8c162f5177fd24a8ed37cf38d09a25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkPepe_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 173
+        width: 75
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2611e92a8c1e2a478ce8d7d1fddbdab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkPepe_8
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 173
+        width: 65
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6bb72ee91a8f94da92455eec6b1274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkPepe_53
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 89
+        width: 68
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32aeb9891ac898d4796bb6a9e710f457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkPepe_57
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 68
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee926b8519f1744690329d86953cc6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkPepe_58
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 10
+        width: 68
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ef5f867310ffc4aa8e99cf63d3cab5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkPepe_59
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 10
+        width: 69
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af10df1fdf76f947a8515686d301277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DarkPepe_60
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 10
+        width: 69
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345c4b90bf2f1684683ee5d8d454ed97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0a7e8a132ebc0ce4cb8c571ac9d0f4a7
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

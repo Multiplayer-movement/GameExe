@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5259251177330158445
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5259251177330158353}
+  - component: {fileID: 5259251177330158352}
+  - component: {fileID: 5259251177330158447}
+  - component: {fileID: 5259251177330158446}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5259251177330158353
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5259251177330158445}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5259251177330158352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5259251177330158445}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25fcfad0c051f4c418d22a4efe7f2e6f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Level: 0
+  mapManager: {fileID: 0}
+  r: 20
+  c: 20
+  minNum: 70
+  maxNum: 80
+--- !u!114 &5259251177330158447
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5259251177330158445}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ec7c4017b0fd2f40bc1e8a89fbc7b75, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  roomManager: {fileID: 0}
+  Row: 0
+  Column: 0
+--- !u!114 &5259251177330158446
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5259251177330158445}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c3dd5360971a274b9aa0dfcc57a1759, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  monsterRooms:
+  - {fileID: 5463609967515092145, guid: e36d019af51015b4fb072a7b4f468df9, type: 3}
+  - {fileID: 3597048112244557638, guid: 1b5a8ea96382518499c91156d073c7f4, type: 3}
+  bossRooms:
+  - {fileID: 5469045671688933123, guid: e500e5e2795cf9349851ee66b6623ef5, type: 3}
+  goldRooms: []
+  startRooms:
+  - {fileID: 5469045671688933123, guid: e500e5e2795cf9349851ee66b6623ef5, type: 3}
+  roomManager: {fileID: 0}
